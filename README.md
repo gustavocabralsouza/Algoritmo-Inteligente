@@ -16,7 +16,7 @@ ALGORITMO INTELIGENTE
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in desktop development!
 
-- ⚛️ **C++** — C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.
+- **C++** — C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.
 
 
 
